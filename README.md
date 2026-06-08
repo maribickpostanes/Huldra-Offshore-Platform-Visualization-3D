@@ -25,6 +25,5 @@ Postanes, M. (2026). *Huldra Offshore Platform Visualization 3D (Based on asset 
   publisher    = {GitHub},
   journal      = {GitHub Repository},
   howpublished = {\url{[https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D](https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D)}},
-  note         = {Based on the open-source 3D model of Huldra by Equinor ASA.}}
-  journal      = {GitHub Repository},
-  howpublished = {\url{[https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D](https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D)}}}
+  note         = {Based on the open-source 3D model of Huldra by Equinor ASA.}
+}
