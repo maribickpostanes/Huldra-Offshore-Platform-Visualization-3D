@@ -5,7 +5,7 @@ This browser-based 3D visualization proof-of-concept of the Huldra offshore plat
 
 ## Visualization Video
 - [Watch the Huldra platform 3D visualization demonstration on LinkedIn](https://www.linkedin.com/posts/maribickpostanes_huldra-northsea-oilandgas-activity-7446152833118253056-u_WP)
-- [View the source video file in this repository]](https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D/raw/refs/heads/main/Huldra%20Platform%20Integrated%20Engineering%20View.mp4)
+- [View the source video file in this repository](https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D/raw/refs/heads/main/Huldra%20Platform%20Integrated%20Engineering%20View.mp4)
 
 ## Data Credit and Source
 Equinor ASA. Data matured by Aker Kværner and Rosenberg Verft distributed via Databricks Marketplace under CC BY 4.0.
